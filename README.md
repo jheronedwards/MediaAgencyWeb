@@ -7,3 +7,11 @@ A media agency website developed using React and Framer Motion for example purpo
 ![image](https://user-images.githubusercontent.com/91984031/143660042-823ff0bd-0ab1-4e01-ac3d-dcf7146cf4f4.png)
 ![image](https://user-images.githubusercontent.com/91984031/143660098-8d66e1bd-0576-49b1-9456-0955eae474bd.png)
 
+
+
+https://user-images.githubusercontent.com/91984031/143661112-5c39e59a-0e75-4f2c-988e-5a0bd077d100.mov
+
+
+
+https://user-images.githubusercontent.com/91984031/143661117-59365b29-d438-4bfc-aa4a-fc5a518eb335.mov
+
